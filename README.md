@@ -19,7 +19,7 @@ submission_talks/
     └── ...
 ```
 
-The script should not overrite existing files in those subdirectories.
+Just double-click the .bat file or open it trough a shell to see the output. The script should not overrite existing files (Bewertungssheet or Anmerkungen) in those subdirectories.
 
 Still, USE WITH CAUTION, I HAVE LITTLE EXPERIENCE WITH BATCH SCRIPTS!
 
